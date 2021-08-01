@@ -1,0 +1,426 @@
+# Translation of Plugins - WP SVG Icons - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - WP SVG Icons - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-04-22 07:50:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - WP SVG Icons - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://evan-herman.com"
+msgstr "http://evan-herman.com"
+
+#. Author of the plugin/theme
+msgid "EH Dev Shop"
+msgstr "EH Dev Shop"
+
+#. Description of the plugin/theme
+msgid "Quickly and effortlessly gain access to 492 beautifully designed SVG font icons, available on the frontend and backend of your site."
+msgstr "Быстро и без усилий получите доступ к 492 красиво оформленным значкам SVG, доступных как во внешнем, так и в серверном интерфейсе вашего сайта."
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.evan-herman.com/wordpress-plugin/wp-svg-icons/"
+msgstr "https://www.evan-herman.com/wordpress-plugin/wp-svg-icons/"
+
+#: public/partials/wp-svg-icons-shortcodes.php:43
+msgid "Whoops! It looks like you forgot to specify your html tag."
+msgstr "Ой! Похоже, вы забыли указать свою HTML-метку."
+
+#: public/partials/wp-svg-icons-shortcodes.php:37
+msgid "Whoops! It looks like you forgot to specify an icon."
+msgstr "Ой! Похоже, вы забыли указать значок."
+
+#: admin/partials/wp-svg-icons-upgrade-page.php:137
+msgid "With the purchase of WP SVG Icons Pro, you'll also receive 1 year of premium support and updates to WP SVG Icons. This will ensure you remain up to date with all of the latest updates, security and bug fixes. You'll also have 24 hour access to a professional WordPress developer. Whatever your issue may be, simply submit a ticket and we'll fix things up for you in no time!"
+msgstr "Приобретая WP SVG Icons Pro, вы также получите 1 год премиальной поддержки и обновления для WP SVG Icons. Это гарантирует, что вы будете в курсе всех последних обновлений, безопасности и исправлений ошибок. У вас также будет круглосуточный доступ к профессиональному разработчику WordPress. Какой бы ни была ваша проблема, просто отправьте заявку, и мы в кратчайшие сроки все исправим!"
+
+#: admin/partials/wp-svg-icons-upgrade-page.php:125
+msgid "You can also easily add icons to any of your menus using the provided dropdown. Select icons from the default pack, or select icons from a custom pack that you have uploaded yourself. Everything is done without ever writing any code at all!"
+msgstr "Вы также можете легко добавить значки в любое из ваших меню, используя выпадающий список. Выберите значки из пакета по умолчанию или выберите значки из настраиваемого пакета, который вы загрузили самостоятельно. Всё делается без написания кода!"
+
+#: admin/partials/wp-svg-icons-upgrade-page.php:113
+msgid "Add smooth, pre-defined CSS3 animations to your icons easily and quickly. You can add icon animations on page load, on hover, on click or even when the icon comes into view on the page. These are some of the best animations on the web, and provide an extra layer of personalization to your sites."
+msgstr "Легко и быстро добавляйте плавные, предварительно определенные анимации CSS3 к вашим значкам. Вы можете добавить анимацию значков при загрузке страницы, при наведении курсора, при щелчке или даже когда значок появляется на странице. Это одни из лучших анимаций в Интернете, которые обеспечивают дополнительный уровень персонализации для ваших сайтов."
+
+#: admin/partials/wp-svg-icons-upgrade-page.php:112
+msgid "CSS3 Animations"
+msgstr "CSS3 анимации"
+
+#: admin/partials/wp-svg-icons-upgrade-page.php:105
+msgid "We've also bundled a handful of icon container styles which you can customize using the provided color pickers. These are great for landing pages or when used in text heavy blog posts to emphasize the context of the post."
+msgstr "Мы также собрали несколько стилей контейнеров значков, которые вы можете настроить, используя предоставленные средства выбора цвета. Они отлично подходят для целевых страниц или при использовании в тяжелых текстовых сообщениях в блогах, чтобы подчеркнуть контекст сообщения."
+
+#: admin/partials/wp-svg-icons-upgrade-page.php:97
+msgid "The pro version comes with an easy to use icon customizer. Easily add additional parameters to your icons, adjust the icon size and color, add additional class names or convert the icon into a link all without writing a single line of code."
+msgstr "Pro версия поставляется с простым в использовании настройщиком значков. С легкостью добавляйте дополнительные параметры к своим значкам, настраивайте размер и цвет значков, добавляйте дополнительные имена классов или преобразуйте значок в ссылку, и все это без написания ни одной строчки кода."
+
+#: admin/partials/wp-svg-icons-upgrade-page.php:90
+msgid "In the free version your limited to 10 custom icons. If you need access to more than 10 custom icons, please consider purchasing the pro version to allow for an un-restricted number of icons to be used."
+msgstr "В бесплатной версии вы ограничены 10 пользовательскими значками. Если вам нужен доступ к более чем 10 пользовательским значкам, рассмотрите возможность приобретения про-версии, чтобы можно было использовать неограниченное количество значков."
+
+#: admin/partials/wp-svg-icons-upgrade-page.php:89
+msgid "No More Custom Icon Limits!"
+msgstr "Больше никаких ограничений для пользовательских значков!"
+
+#: admin/partials/wp-svg-icons-upgrade-page.php:84
+#: admin/partials/wp-svg-icons-upgrade-page.php:135
+msgid "Premium Support"
+msgstr "Премиум-поддержка"
+
+#: admin/partials/wp-svg-icons-upgrade-page.php:83
+#: admin/partials/wp-svg-icons-upgrade-page.php:123
+msgid "Menu Icons"
+msgstr "Иконки меню"
+
+#: admin/partials/wp-svg-icons-upgrade-page.php:82
+msgid "CSS3 Animation"
+msgstr "CSS3 Анимация"
+
+#: admin/partials/wp-svg-icons-upgrade-page.php:81
+#: admin/partials/wp-svg-icons-upgrade-page.php:104
+msgid "Icon Containers"
+msgstr "Контейнеры значков"
+
+#: admin/partials/wp-svg-icons-upgrade-page.php:80
+#: admin/partials/wp-svg-icons-upgrade-page.php:96
+msgid "Icon Customizer"
+msgstr "Настройщик значков"
+
+#: admin/partials/wp-svg-icons-upgrade-page.php:79
+msgid "Unlimited Custom Icons"
+msgstr "Неограниченное количество пользовательских значков"
+
+#: admin/partials/wp-svg-icons-upgrade-page.php:73
+msgid "Enjoying the free version? Consider upgrading to the pro version for added features and a premium level of support."
+msgstr "Нравится бесплатная версия? Рассмотрите возможность обновления до профессиональной версии, чтобы получить дополнительные функции и премиум-уровень поддержки."
+
+#: admin/partials/wp-svg-icons-icon-page.php:192
+msgid "Settings successfully updated."
+msgstr "Настройки успешно обновлены."
+
+#: admin/partials/wp-svg-icons-icon-page.php:186
+msgid "Settings are limited in WP SVG Icons. This plugin was created to be as user friendly and as easy to maintain as possible, which includes a very minimal settings page."
+msgstr "Настройки ограничены в WP SVG. Этот плагин был создан, чтобы быть максимально удобным для пользователя, максимально простым в обслуживании и содержит крайне минималистичную страницу настроек."
+
+#: admin/partials/wp-svg-icons-icon-page.php:176
+msgid "be deleted on uninstall."
+msgstr "удаляется при деинсталляции."
+
+#: admin/partials/wp-svg-icons-icon-page.php:176
+msgid "your custom pack and all associated and enqueued files will "
+msgstr "ваш пользовательский пакет и все связанные и поставленные в очередь файлы будут"
+
+#: admin/partials/wp-svg-icons-icon-page.php:173
+msgid "your custom pack and all associated and enqueued files will be deleted on uninstall."
+msgstr "ваш пользовательский пакет и все связанные и поставленные в очередь файлы будут удалены при деинсталляции"
+
+#: admin/partials/wp-svg-icons-icon-page.php:137
+msgid "be loaded on the front end."
+msgstr "будет загружено во внешний интерфейс."
+
+#: admin/partials/wp-svg-icons-icon-page.php:137
+#: admin/partials/wp-svg-icons-icon-page.php:176
+msgid "not"
+msgstr "не"
+
+#: admin/partials/wp-svg-icons-icon-page.php:137
+msgid "the default icon pack stylesheet will "
+msgstr "таблица стилей пакета значков по умолчанию будет"
+
+#: admin/partials/wp-svg-icons-icon-page.php:134
+msgid "the default icon pack stylesheet will be loaded on the front end."
+msgstr "таблица стилей пакета значков по умолчанию будет загружена во внешний интерфейс."
+
+#: admin/partials/wp-svg-icons-icon-page.php:118
+msgid "Clear Data on Uninstall"
+msgstr "Очистить данные при деинсталляции"
+
+#: admin/partials/wp-svg-icons-icon-page.php:109
+msgid "Defualt Icon Element"
+msgstr "Элемент значка по умолчанию"
+
+#: admin/partials/wp-svg-icons-icon-page.php:100
+msgid "Load Default Icons"
+msgstr "Загрузить значки по умолчанию"
+
+#: admin/partials/wp-svg-icons-icon-page.php:54
+#: admin/partials/wp-svg-icons-icon-page.php:55
+#: admin/partials/wp-svg-icons-upgrade-page.php:58
+msgid "Upgrade"
+msgstr "Улучшить"
+
+#: admin/partials/wp-svg-icons-icon-page.php:45
+#: admin/partials/wp-svg-icons-icon-page.php:206
+msgid "Settings"
+msgstr "Настройки"
+
+#: admin/partials/wp-svg-icons-icon-page.php:44
+msgid "WP SVG Icons - Settings"
+msgstr "WP SVG Icons - Настройки"
+
+#: admin/partials/wp-svg-icons-icon-page.php:34
+#: admin/partials/wp-svg-icons-icon-page.php:35
+msgid "Custom Icon Set"
+msgstr "Пользовательский набор иконок"
+
+#: admin/partials/wp-svg-icons-icon-page.php:25
+msgid "Default Icon Set"
+msgstr "Набор значков по умолчанию"
+
+#: admin/partials/wp-svg-icons-icon-page.php:24
+msgid "WP SVG Icons - Default Icon Set"
+msgstr "WP SVG Icons - набор иконок по умолчанию"
+
+#: admin/partials/wp-svg-icons-default-icons-page.php:104
+msgid "Custom Pack"
+msgstr "Пользовательский пакет"
+
+#: admin/partials/wp-svg-icons-default-icons-page.php:103
+msgid "Default Pack"
+msgstr "Пакет по умолчанию"
+
+#: admin/partials/wp-svg-icons-default-icons-page.php:92
+msgid "Insert Icon"
+msgstr "Вставить значок"
+
+#: admin/partials/wp-svg-icons-default-icons-page.php:78
+msgid "Advanced Attributes"
+msgstr "Расширенные атрибуты"
+
+#: admin/partials/wp-svg-icons-default-icons-page.php:75
+msgid "icon-name"
+msgstr "icon-name"
+
+#: admin/partials/wp-svg-icons-default-icons-page.php:71
+msgid "Step 3: Click 'Insert Icon' on a post or page, or use the generated shortcode anywhere on your site, or in any template file."
+msgstr "Шаг 3. Нажмите \"Вставить значок\" в записи или на странице либо используйте сгенерированный шорткод в любом месте вашего сайта или в любом файле шаблона."
+
+#: admin/partials/wp-svg-icons-default-icons-page.php:61
+msgid "Step 2: Select the element to wrap your icon with."
+msgstr "Шаг 2: Выберите элемент, которым вы хотите обернуть значок."
+
+#: admin/partials/wp-svg-icons-default-icons-page.php:60
+msgid "Step 1: Locate and click the icon you want to use."
+msgstr "Шаг 1. Найдите и щелкните по значку, который хотите использовать."
+
+#: admin/partials/wp-svg-icons-default-icons-page.php:58
+msgid "How to use:"
+msgstr "Как использовать:"
+
+#: admin/partials/wp-svg-icons-default-icons-page.php:51
+msgid "Enjoy!"
+msgstr "Наслаждайтесь!"
+
+#: admin/partials/wp-svg-icons-default-icons-page.php:51
+msgid "These icons are scaleable vector graphics, meaning you can set them to whatever size you want with out any loss in quality."
+msgstr "Эти значки представляют собой масштабируемую векторную графику, что означает, что вы можете установить для них любой размер без потери качества."
+
+#: admin/partials/wp-svg-icons-default-icons-page.php:50
+msgid "Default Icon Pack"
+msgstr "Пакет значков по умолчанию"
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:387
+#: admin/partials/wp-svg-icons-default-icons-page.php:2513
+msgid "Plugin Created By"
+msgstr "Плагин создан"
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:382
+msgid "Your Custom Icon Pack will be installed to"
+msgstr "Ваш пользовательский пакет значков будет установлен в"
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:380
+msgid "Your Custom Icon Pack is located in"
+msgstr "Ваш пользовательский набор значков находится в"
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:366
+msgid "Pro Version"
+msgstr "Версия PRO"
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:366
+msgid "Upgrade to pro"
+msgstr "Обновиться до PRO"
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:366
+msgid "It looks like you're trying to install and use more than 10 icons. Unfortunately the free version limits the number of custom icons to 10. If you'd like to access more than 10 custom icons, please consider upgrading to the"
+msgstr "Похоже, вы пытаетесь установить и использовать более 10 значков. К сожалению, бесплатная версия ограничивает количество настраиваемых значков до 10. Если вы хотите получить доступ к более чем 10 настраиваемым значкам, рассмотрите возможность обновления до"
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:351
+msgid "You can use this .json file to export your custom icon pack back into icomoon and then add or remove icons as you please"
+msgstr "Вы можете использовать этот файл .json, чтобы экспортировать свой собственный пакет значков обратно в icomoon, а затем добавлять или удалять значки по своему усмотрению."
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:338
+msgid "Download"
+msgstr "Скачать"
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:330
+msgid "Uninstall Pack"
+msgstr "Удалить пакет"
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:318
+msgid "note: file must be a .zip downloaded from icomoon"
+msgstr "примечание: файл должен быть в формате .zip, загруженном с icomoon"
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:315
+msgid "Import a Custom Font Pack"
+msgstr "Импорт пользовательского пакета шрифтов"
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:220
+#: admin/partials/wp-svg-icons-default-icons-page.php:86
+msgid "Icon Preview:"
+msgstr "Предпросмотр значков:"
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:218
+#: admin/partials/wp-svg-icons-default-icons-page.php:74
+msgid "Shortcode:"
+msgstr "Шорткод:"
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:215
+msgid "If you install a new icon pack, and your old icons appear you may need to empty your browsers cache."
+msgstr "Если вы устанавливаете новый пакет значков и появляются старые значки, вам может потребоваться очистить кеш браузера."
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:214
+msgid "Only one icon pack may be active at a time."
+msgstr "Одновременно может быть активен только один набор значков."
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:214
+#: admin/partials/wp-svg-icons-custom-icons-page.php:215
+msgid "Note:"
+msgstr "Примечание:"
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:213
+msgid "plugin site"
+msgstr "сайт плагина"
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:213
+msgid "For a step-by-step tutorial on how to download and install a custom icon pack visit the"
+msgstr "Пошаговое руководство по загрузке и установке пользовательского пакета значков смотри"
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:212
+msgid "Welcome to the highly requested Custom Font Pack section! Use the importer below to import custom icon packs downloaded from"
+msgstr "Добро пожаловать в столь востребованный раздел Custom Font Pack! Используйте средство импорта ниже, чтобы импортировать пользовательские пакеты значков, загруженные из"
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:210
+msgid "Import a Custom Icon Pack"
+msgstr "Импорт пользовательского пакета значков"
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:203
+msgid "There was a problem importing the file."
+msgstr "При импорте файла возникла проблема."
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:199
+msgid "There was a problem unzipping the file."
+msgstr "При распаковке файла возникла проблема."
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:184
+msgid "Custom font pack successfully installed, enjoy!"
+msgstr "Пользовательский пакет шрифтов успешно установлен, наслаждайтесь!"
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:182
+msgid "Custom font pack successfully unzipped!"
+msgstr "Пакет пользовательских шрифтов успешно распакован!"
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:86
+msgid "Custom font pack successfully uploaded!"
+msgstr "Пользовательский пакет шрифтов успешно загружен!"
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:62
+#: admin/partials/wp-svg-icons-custom-icons-page.php:127
+msgid "Support"
+msgstr "Поддержка"
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:61
+#: admin/partials/wp-svg-icons-custom-icons-page.php:126
+msgid "Try again"
+msgstr "Попробовать снова"
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:59
+#: admin/partials/wp-svg-icons-custom-icons-page.php:124
+msgid "If you're still having issues, please contact support."
+msgstr "Если у вас по-прежнему возникают проблемы, обратитесь в службу поддержки."
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:59
+#: admin/partials/wp-svg-icons-custom-icons-page.php:124
+msgid "There was a problem with the file you uploaded. Make sure that you're uploading a .zip file from"
+msgstr "Возникла проблема с загруженным вами файлом. Убедитесь, что вы загружаете файл .zip из"
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:58
+msgid "There was a problem importing the file. Ensure that you are uploading a .zip file."
+msgstr "При импорте файла возникла проблема. Убедитесь, что вы загружаете файл .zip."
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:38
+msgid "Sorry, your nonce did not verify. Please try again."
+msgstr "К сожалению, ваш одноразовый номер не подтвержден. Пожалуйста, попробуйте еще раз."
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:18
+#: admin/partials/wp-svg-icons-default-icons-page.php:40
+#: admin/partials/wp-svg-icons-icon-page.php:214
+#: admin/partials/wp-svg-icons-upgrade-page.php:66
+msgid "Follow me elsewhere"
+msgstr "Следи за мной в другом месте"
+
+#: admin/partials/wp-svg-icons-custom-icons-page.php:13
+#: admin/partials/wp-svg-icons-default-icons-page.php:35
+#: admin/partials/wp-svg-icons-icon-page.php:209
+#: admin/partials/wp-svg-icons-upgrade-page.php:61
+msgid "Leave Us A Review!"
+msgstr "Оставьте нам отзыв!"
+
+#: admin/class-wp-svg-icons-admin.php:410
+msgid "Hey there, it looks like you've been using"
+msgstr "Привет, похоже, ты использовал"
+
+#: admin/class-wp-svg-icons-admin.php:408
+#: admin/class-wp-svg-icons-admin.php:410
+msgid "Dismiss"
+msgstr "Отклонить"
+
+#: admin/class-wp-svg-icons-admin.php:408
+#: admin/class-wp-svg-icons-admin.php:410
+msgid "Upgrade to Pro"
+msgstr "Перейти на Pro"
+
+#: admin/class-wp-svg-icons-admin.php:408
+#: admin/class-wp-svg-icons-admin.php:410
+msgid "Leave A Review"
+msgstr "Оставить отзыв"
+
+#: admin/class-wp-svg-icons-admin.php:408
+#: admin/class-wp-svg-icons-admin.php:410
+msgid "for 2 weeks now. We certainly hope you're enjoying the power and all the features packed into the free version.  If so, leave us a review, we'd love to hear what you have to say. If you're really enjoying the plugin, consider upgrading to the pro version for some added features and premium support."
+msgstr "уже 2 недели. Мы, безусловно, надеемся, что вам понравились возможности и все функции, содержащиеся в бесплатной версии. Если да, оставьте нам отзыв, мы будем рады услышать, что вы скажете. Если вам действительно нравится плагин, подумайте о том, чтобы перейти на профессиональную версию, чтобы получить некоторые дополнительные функции и премиум-поддержку."
+
+#: admin/class-wp-svg-icons-admin.php:408
+msgid ", You've been using"
+msgstr ", вы использовали"
+
+#: admin/class-wp-svg-icons-admin.php:408
+msgid "Hey"
+msgstr "Привет"
+
+#: admin/class-wp-svg-icons-admin.php:300
+msgid "You already have a font pack installed. If you want to install a new font pack, you must first uninstall the current one."
+msgstr "У вас уже установлен пакет шрифтов. Если вы хотите установить новый пакет шрифтов, вы должны сначала удалить текущий."
+
+#: admin/class-wp-svg-icons-admin.php:226
+msgid "Error uninstalling your custom font pack. Try again. If the error persists you will have to delete the file manually."
+msgstr "Ошибка при удалении вашего пользовательского пакета шрифтов. Попробуй еще раз. Если ошибка не исчезнет, вам придется удалить файл вручную."
+
+#: admin/class-wp-svg-icons-admin.php:225
+msgid "Custom font pack successfully uninstalled!"
+msgstr "Пользовательский пакет шрифтов успешно удален!"
+
+#: admin/class-wp-svg-icons-admin.php:224
+msgid "Are you sure you want to uninstall your custom icon pack? This cannot be undone."
+msgstr "Вы уверены, что хотите удалить свой собственный набор значков? Это действие не может быть отменено."
+
+#. #-#-#-#-#  tmp-svg-vector-icon-plugin.pot (WP SVG Icons 3.1.8.3)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: admin/class-wp-svg-icons-admin.php:203
+#: admin/partials/wp-svg-icons-icon-page.php:12
+msgid "WP SVG Icons"
+msgstr "WP SVG Icons"
